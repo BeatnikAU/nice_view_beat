@@ -1,0 +1,4 @@
+name: nice_view_beat
+build:
+  cmake: .
+  kconfig: Kconfig
